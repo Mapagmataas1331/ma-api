@@ -1,9 +1,9 @@
 {
 	"name": "ma-api",
 	"version": "1.0.0",
-	"description": "Mapagmataas' websites' API",
+	"description": "Mapagmataas' websites' api",
 	"author": "Mapagmataas",
-	"homepage": "https://ma.cyou",
+	"homepage": "https://api.ma.cyou",
 	"repository": "github:mapagmataas1331/ma-api",
 	"private": true,
 	"type": "module",
