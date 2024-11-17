@@ -1,3 +1,0 @@
-[submodule "src/lib/shared"]
-	path = src/lib/shared
-	url = https://github.com/ma-cyou/ma-shared.git
