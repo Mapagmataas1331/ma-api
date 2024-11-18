@@ -9,7 +9,7 @@
 	<Button variant="outline" href="https://ma.cyou/" class="mb-4"
 		>{$language === 'ru' ? 'Основной сайт автора' : "Author's main site"}</Button
 	>
-	<Button variant="outline" href="https://test.ma.cyou/og/"
+	<Button variant="outline" href="https://more.ma.cyou/og/"
 		>{$language === 'ru' ? 'Создать OG картинку' : 'Create OG image'}</Button
 	>
 </div>
