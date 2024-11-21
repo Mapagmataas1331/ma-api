@@ -20,7 +20,7 @@
 
 <Footer
 	links={{
-		'https://ma.cyou/': { name: "Author's site", nameRu: 'Сайт Автора' },
+		'https://ma.cyou/': { name: 'Author', nameRu: 'Автор' },
 		'https://github.com/mapagmataas1331/ma-api/': { name: 'Source code', nameRu: 'Исходный код' }
 	}}
 />
